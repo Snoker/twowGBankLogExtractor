@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: gBankLogExtractor
+## Notes: Extracts guild bank transaction log (deposits & withdrawals) into saved variables.
+## Author: Snoker
+## Version: 1.0
+## SavedVariables: GBankLogData
+
+gBankLogExtractor.lua
