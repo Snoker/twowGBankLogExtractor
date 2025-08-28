@@ -143,6 +143,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+gBankLogExtractor/
 
 # Spyder project settings
 .spyderproject
